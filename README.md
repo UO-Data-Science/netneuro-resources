@@ -1,7 +1,14 @@
 # Compiling reproducibility resources
 There are many resources that can help scientists to improve reproducibility, collaboration, and project management. A short list is available on the [NetNeuro website](https://uo-data-science.github.io/NetNeuro2023/Resources.html). Of course, GitHub itself is an important tool in this category!  
 
-For this programming powerup, we will practice some GitHub skills by forking a repository and creating a pull request, while also expanding the list of reproducibility resources.  
+For this programming powerup, we will practice some GitHub skills while also expanding the list of reproducibility resources. We will use GitHub only for the following workflow:  
+- Fork a repo
+- Create a new branch
+- Edit and/or create files
+- Commit changes
+- Create a pull request to submit changes to the source repository
+
+These proceses can be the basis of a collaborative workflow, all done through the GitHub browser interface. However, for a code-based project, you'll likely want to have a local copy of your work for editing and running code.  
 
 ## Getting started
 First, identify a reproducibility resource that you want to share with the cohort. It could be a scientific paper, a website, a programming cheat sheet, or any other resource.  You can add a link or a file. If you need inspiration, check out some of these [lists](https://ohi-science.org/news/importance-of-open-data-science-tools) of [resources](https://www.sesync.org/resources/data-learning-resources-0).   
