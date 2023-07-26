@@ -18,4 +18,9 @@ ___
 ### Git Workflows (Jake) -  [Link](https://www.atlassian.com/git/tutorials/comparing-workflows) 
 
 A series of web pages comparing different workflows in git 
-  
+
+___
+
+### Six Factors Affecting Reproducability in Life Science Research and How to Handle Them (Rolf) - [Link](https://www.nature.com/articles/d42473-019-00004-y)
+
+An article in Nature discussing some of the main issues that disrupt repoducibilty in the bio sciences. It is a good read that offers some solutions/best practices to these main problems
