@@ -27,10 +27,10 @@ An article in Nature discussing some of the main issues that disrupt reproducibi
 
 ___
 
-### Andy's Brain Book and Blog (Denicia) - [Link](https://andysbrainbook.readthedocs.io/en/latest/index.html) [Link] (https://www.andysbrainblog.com/)
+### Andy's Brain Book (Denicia) - [Link](https://andysbrainbook.readthedocs.io/en/latest/index.html)
 
 A guide  to fMRI all the way from the most popular software, preprocessing, and ROI or Whole Brain analysis, including a walkthrough with sample data. This book also has a youtube companion that helps alongside the book.
+### Andy's Brain Blog - [Link](https://www.andysbrainblog.com/)
 
-### Andy's Brain Book Videos (Denicia) - [Link](https://www.youtube.com/@AndrewJahn)
+### Andy's Brain Book Videos  - [Link](https://www.youtube.com/@AndrewJahn)
 
-Videos to go along with the book! 
