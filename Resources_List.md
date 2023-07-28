@@ -23,4 +23,14 @@ ___
 
 ### Six Factors Affecting Reproducability in Life Science Research and How to Handle Them (Rolf) - [Link](https://www.nature.com/articles/d42473-019-00004-y)
 
-An article in Nature discussing some of the main issues that disrupt repoducibilty in the bio sciences. It is a good read that offers some solutions/best practices to these main problems
+An article in Nature discussing some of the main issues that disrupt reproducibility in the bio sciences. It is a good read that offers some solutions/best practices to these main problems
+
+___
+
+### Andy's Brain Book (Denicia) - [Link](https://andysbrainbook.readthedocs.io/en/latest/index.html)
+
+A guide  to fMRI all the way from the most popular software, preprocessing, and ROI or Whole Brain analysis, including a walkthrough with sample data. This book also has a youtube companion that helps alongside the book.
+
+### Andy's Brain Book Videos (Denicia) - [Link](https://www.youtube.com/@AndrewJahn)
+
+Videos to go along with the book! 
